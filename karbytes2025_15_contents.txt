@@ -40,7 +40,7 @@ file_15: MINDS_2020_SCREENSHOTS-main.zip // 123.68 megabytes
 
 file_16: KARBYTES_BLOG_APPS_github_hosted_website-main_[undefined_day].zip // 46.30 megabytes
 
-file_17: KARLINA_OBJECT_extension_pack_42-main_[undefined_day].zip // 9.65 megabytes
+file_17: KARLINA_OBJECT_extension_pack_42-main_[undefined_day].zip // 9.79 megabytes
 
 file_18: KARBYTES_JOURNAL_2023_PART_25-main.zip // 155.49 megabytes
 
@@ -296,6 +296,6 @@ file_142: KARBYTES_JOURNAL_2023_PART_26-main.zip // 81.69 megabytes
 
 Total number of files: 143
 
-Total folder size: 15710.76 megabytes
+Total folder size: 15710.89 megabytes
 
 --------------------------------
