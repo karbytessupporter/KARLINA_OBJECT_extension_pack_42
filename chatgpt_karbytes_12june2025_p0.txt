@@ -266,7 +266,9 @@ Why Dictation May Seem "Smarter"
 - It can buffer and analyze the full phrase before finalizing text, while phone-call mode has to react incrementally.
 
 - Your voice input may be passed through more sophisticated or higher-accuracy speech models on the dictation side.
-If you're doing anything with detailed phrasing, precise terminology, or emotionally nuanced content (like your blog posts or philosophical thought experiments), dictation is probably going to give you a lot more control — especially since you can review and edit before committing.
+
+- If you're doing anything with detailed phrasing, precise terminology, or emotionally nuanced content (like your blog posts or philosophical thought experiments), dictation is probably going to give you a lot more control — especially since you can review and edit before committing.
+
 Would you like help refining any dictated text now? Or maybe exploring a workflow that combines dictation with batch blog drafting more efficiently?
 
 karbytes:
