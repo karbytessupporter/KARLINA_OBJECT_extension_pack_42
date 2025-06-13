@@ -1,4 +1,10 @@
-// chatgpt_karbytes_12june2025_p0.txt
+/** 
+ * file: chatgpt_karbytes_12june2025_p0.txt
+ * type: plain-text
+ * date: 12_JUNE_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 The conversation pertains to concrete examples of context awareness and context differences. (Context is the "virtual environment" where interpreted sequences of tokens exist as meaningful statements).
 
