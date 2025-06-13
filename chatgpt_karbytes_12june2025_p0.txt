@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between 11:59PM Pacific Standard Time on 11_JUNE_2025 and 11:59PM Pacific Standard Time on 12_JUNE_2025. The conversation pertains to concrete examples of context awareness and context differences. (Context is the "virtual environment" where interpreted sequences of tokens exist as meaningful statements).
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between 11:59PM Pacific Standard Time on 11_JUNE_2025 and 11:59PM Pacific Standard Time on 12_JUNE_2025. The conversation pertains to karbytes testing ChatGPT's ability to remember past conversations and comparing Voice Mode and dictation (both within the ChatGPT mobile application) in terms of how each modality handles spoken input from karbytes (especially the task of translating speech to copy-able text in the ChatGPT user interface (both in the mobile app and via the web browser interface).
 
 * * *
 
