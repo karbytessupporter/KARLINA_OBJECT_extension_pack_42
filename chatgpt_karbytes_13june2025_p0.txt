@@ -217,74 +217,57 @@ Absolutely — let’s break this down into two parts:
 Bioluminescence in insects like glowworms and fireflies is a biochemical reaction that produces cold light (i.e., no heat). Here’s how it works:
 
 🔬 Core Components:
-Component	Description
-Luciferin	The light-emitting molecule (a substrate). Different species use slightly different forms.
-Luciferase	An enzyme that catalyzes the reaction between luciferin and oxygen.
-Oxygen (O₂)	Needed for oxidation in the reaction.
-ATP	Energy source (adenosine triphosphate).
+
+Component ----------------| Description
+
+Luciferin ----------------| The light-emitting molecule (a substrate). Different species use slightly different forms.
+
+Luciferase ---------------| An enzyme that catalyzes the reaction between luciferin and oxygen.
+
+Oxygen (O₂) --------------| Needed for oxidation in the reaction.
+
+ATP ----------------------| Energy source (adenosine triphosphate).
 
 ⚗️ Chemical Reaction (simplified):
-Luciferin
-+
-ATP
-+
-O
-2
-→
-Luciferase
-Oxyluciferin
-+
-Light
-+
-CO
-2
-+
-AMP
-+
-PPi
-Luciferin+ATP+O 
-2
-​
-  
-Luciferase
-​
- Oxyluciferin+Light+CO 
-2
-​
- +AMP+PPi
-The reaction releases photons of visible light (usually green, but some species can emit red or yellow).
 
-It’s extremely efficient — nearly 100% of the energy is emitted as light (compared to ~10% in an incandescent bulb).
+Luciferin + ATP + O₂ → Oxyluciferin + Light + CO₂ + AMP + PPi
+
+- The reaction releases photons of visible light (usually green, but some species can emit red or yellow).
+
+- It’s extremely efficient — nearly 100% of the energy is emitted as light (compared to ~10% in an incandescent bulb).
 
 📊 PART 2: Comparison Diagram – Glowworms vs. Fireflies
+
 Here's a high-level visual summary (structured as a chart):
 
-Feature	Phengodidae (Glowworms/Railroad Worms)	Lampyridae (Fireflies/Lightning Bugs)
-Bioluminescent Organs	Multiple body segments, often head and tail	Usually on the abdomen (tail end)
-Light Color	Green, yellow, red (in railroad worms)	Green or yellow (rarely red)
-Life Stage that Glows	Larvae and adult females (neotenic)	Larvae and both adult sexes
-Adult Female Form	Wingless, larva-like	Often winged, though some are neotenic
-Adult Male Glow?	Usually not glowing	Yes, in many species (used for courtship)
-Main Functions	Predator deterrence, possible mate signaling	Courtship signaling, predator deterrence
+Feature -------------------------| Phengodidae (Glowworms/Railroad Worms) ---------------| Lampyridae (Fireflies/Lightning Bugs)
+
+Bioluminescent Organs -----------| Multiple body segments, often head and tail ----------| Usually on the abdomen (tail end)
+
+Light Color ---------------------| Green, yellow, red (in railroad worms) ---------------| Green or yellow (rarely red)
+
+Life Stage that Glows -----------| Larvae and adult females (neotenic) ------------------| Larvae and both adult sexes
+
+Adult Female Form ---------------| Wingless, larva-like ---------------------------------| Often winged, though some are neotenic
+
+Adult Male Glow? ----------------| Usually not glowing ----------------------------------| Yes, in many species (used for courtship)
+
+Main Functions ------------------| Predator deterrence, possible mate signaling ---------| Courtship signaling, predator deterrence
 
 🎨 Want a Diagram?
+
 I can generate an image showing:
 
-The segmental glowing organs in Phengodidae larvae and females.
+- The segmental glowing organs in Phengodidae larvae and females.
 
-The flash-producing organ in Lampyridae fireflies.
+- The flash-producing organ in Lampyridae fireflies.
 
-A zoomed-in diagram of the luciferin/luciferase reaction.
+- A zoomed-in diagram of the luciferin/luciferase reaction.
 
 Would you like that all in one image or in separate labeled diagrams?
 
+karbytes:
 
-
-
-
-
-
-You said:
 Yes, please.
 
 
