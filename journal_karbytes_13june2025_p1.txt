@@ -22,4 +22,4 @@ new_core_values: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OB
 
 As of 11:59PM Pacific Standard Time on 13_JUNE_2025, karbytes' core values are defined by the following web page:
 
-https://karbytesforlifeblog.wordpress.com/karbytes_primary_values/
+new_core_values: https://karbytesforlifeblog.wordpress.com/karbytes_primary_values/
