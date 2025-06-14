@@ -19,3 +19,7 @@ As of 11:59PM Pacific Standard Time on 13_JUNE_2025, karbytes' primary (and seco
 new_core_values: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_42/main/karbytes_primary_values.html
 
 (Note that the term "core values" is meant by karbytes to be synonymous with "primary values". Also, karbytes means for the term "core values" to imply that there is no longer a distinction between karbytes' primary values and karbytes' secondary values).
+
+As of As of 11:59PM Pacific Standard Time on 13_JUNE_2025, karbytes' core values are defined by the following web page:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_primary_values/
