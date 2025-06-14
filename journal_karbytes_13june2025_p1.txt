@@ -1,0 +1,21 @@
+/**
+ * file: journal_karbytes_13june2025_p1.txt
+ * type: plain-text
+ * date: 13_JUNE_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Before 11:59PM Pacific Standard Time on 13_JUNE_2025 and after 11:59PM Pacific Standard Time on 21_SEPTEMBER_2024, karbytes' primary (and secondary) values were defined by the following two documents:
+
+old_secondary_values: https://karbytesforlifeblog.wordpress.com/karbytes_10_september_2024/
+
+old_primary_values: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_20/main/karbytes_primary_values.html
+
+(karbytes noticed that the date value at the bottom of the web page (whose source code is located at the Uniform Resource Locator which is in the paragraph directly above this paragraph) is incorrect).
+
+As of 11:59PM Pacific Standard Time on 13_JUNE_2025, karbytes' primary (and secondary) values are defined by the web page whose source code is located at the following Uniform Resource Locator: 
+
+new_core_values: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_42/main/karbytes_primary_values.html
+
+(Note that the term "core values" is meant by karbytes to be synonymous with "primary values". Also, karbytes means for the term "core values" to imply that there is no longer a distinction between karbytes' primary values and karbytes' secondary values).
