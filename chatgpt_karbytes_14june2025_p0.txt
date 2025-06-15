@@ -16,7 +16,7 @@ Later Update: At approximately 5:30PM Pacific Standard Time on 14_JUNE_2025, kar
 
 (After 5:30PM Pacific Standard Time on 14_JUNE_2025 and before 11:59PM Pacific Standard Time on 14_JUNE_2025, karbytes corrected the aforementioned error and marked the five erroneous karbytes2025_15 M_DISCs with the label "beta" to differentiate those erroneous discs from the newer and less erroneous three to five karbytes2025_15 M_DISCs).
 
-(Also, because chatgpt_karbytes_14june2025_p0.txt was placed in the karbytes_basement_39 GitHub repositories and briefly in the development_space GitHub repository before this and the previous two paragraphs were inserted into this note file, this file will no longer be included in karbytes_basement_39 (i.e. which is the liminal holding space for files which are strongly assumed by karbytes to be added to the future "micro directory" named raw_github_files_directory_KARLINA_OBJECT_extension_pack_43)).
+(Also, because chatgpt_karbytes_14june2025_p0.txt was placed in the karbytes_basement_39 GitHub repositories and briefly in the development_space GitHub repository before this and the previous two paragraphs were inserted into this note file, this file will no longer be included in karbytes_basement_39 (i.e. which is the liminal holding space for files which are strongly assumed by karbytes to be added to the future "micro directory" of karbytes named raw_github_files_directory_KARLINA_OBJECT_extension_pack_43)).
 
 * * *
 
